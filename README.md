@@ -66,3 +66,5 @@
 [Interp. Intuition](http://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)
 
 [Measure and Prob.](http://www.stat.washington.edu/people/pdhoff/courses/581/LectureNotes/mtheory.pdf)
+
+[ANN examples](https://github.com/Einsteinish/Artificial-Neural-Networks-with-Jupyter)
