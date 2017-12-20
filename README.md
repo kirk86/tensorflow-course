@@ -22,3 +22,11 @@
 [ProbLog](https://arxiv.org/pdf/1006.4442.pdf)
 
 [PerturbOpt](http://people.bu.edu/cgc/Published/EJC09final.pdf)
+
+[Perturb](https://pdfs.semanticscholar.org/abdc/ba18627ffc16445df15a1809f89a6db0b405.pdf)
+
+[PlogLang](https://dtai.cs.kuleuven.be/problog/)
+
+[PLNLP](http://ceur-ws.org/Vol-1802/paper4.pdf)
+
+[Reason](https://arxiv.org/pdf/1212.4799.pdf)
