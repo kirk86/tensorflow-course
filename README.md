@@ -54,3 +54,7 @@
 [Nips Interpretable Workshop](https://arxiv.org/html/1711.09889)
 
 [DL research](https://github.com/llSourcell/7_Research_Directions_Deep_Learning/blob/master/The%20Future%20of%20Deep%20Learning%20Research.ipynb)
+
+[MLD](https://arxiv.org/pdf/math/0406077.pdf)
+
+[LEAN](https://leanprover.github.io/theorem_proving_in_lean/)
