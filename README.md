@@ -34,3 +34,21 @@
 [RL](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 [Math](https://github.com/DanielTakeshi/Math_Notes)
+
+[DeepQ](https://keon.io/deep-q-learning/)
+
+[RL-examples](http://kengz.me/openai_lab/#lab-demo)
+
+[RL course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
+[ProgramInduction](https://arxiv.org/pdf/1705.04146.pdf)
+
+[Notes](http://www.math.ttu.edu/~drager/Classes/01Fall/reals/seqnotes.pdf)
+
+[And-Or graphs](https://www.computer.org/cms/Computer.org/transactions/feature/tpami_featured.pdf)
+
+[Nvidia Explain paper](https://arxiv.org/pdf/1704.07911.pdf)
+
+[NoveltyReview](http://www.robots.ox.ac.uk/~davidc/pubs/NDreview2014.pdf)
+
+[Nips Interpretable Workshop](https://arxiv.org/html/1711.09889)
