@@ -72,3 +72,6 @@
 [ANN examples](https://github.com/Einsteinish/Artificial-Neural-Networks-with-Jupyter)
 
 [EA-RL](https://arxiv.org/abs/1703.03864)
+
+[Interp1](https://arxiv.org/abs/1606.09604)
+[Interp2](https://www.ncbi.nlm.nih.gov/pubmed/21554073)
