@@ -32,3 +32,5 @@
 [Reason](https://arxiv.org/pdf/1212.4799.pdf)
 
 [RL](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+
+[Math](https://github.com/DanielTakeshi/Math_Notes)
