@@ -18,3 +18,7 @@
 [Stochastic Optimization](http://www.stat.columbia.edu/~liam/teaching/compstat-spr15/lauren-notes.pdf)
 
 [Eigenvals](https://people.orie.cornell.edu/aslewis/publications/focm-paper.pdf)
+
+[ProbLog](https://arxiv.org/pdf/1006.4442.pdf)
+
+[PerturbOpt](http://people.bu.edu/cgc/Published/EJC09final.pdf)
