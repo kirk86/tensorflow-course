@@ -68,3 +68,5 @@
 [Measure and Prob.](http://www.stat.washington.edu/people/pdhoff/courses/581/LectureNotes/mtheory.pdf)
 
 [ANN examples](https://github.com/Einsteinish/Artificial-Neural-Networks-with-Jupyter)
+
+[EA-RL](https://arxiv.org/abs/1703.03864)
