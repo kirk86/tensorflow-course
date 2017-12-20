@@ -14,3 +14,5 @@
 [PSL-3](https://dtai.cs.kuleuven.be/problog/tutorial.html)
 
 [PSL-4](http://dippl.org/)
+
+[Stochastic Optimization](http://www.stat.columbia.edu/~liam/teaching/compstat-spr15/lauren-notes.pdf)
