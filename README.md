@@ -58,3 +58,5 @@
 [MLD](https://arxiv.org/pdf/math/0406077.pdf)
 
 [LEAN](https://leanprover.github.io/theorem_proving_in_lean/)
+
+[InterpThes](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.61.5081&rep=rep1&type=pdf)
