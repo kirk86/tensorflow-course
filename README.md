@@ -52,3 +52,5 @@
 [NoveltyReview](http://www.robots.ox.ac.uk/~davidc/pubs/NDreview2014.pdf)
 
 [Nips Interpretable Workshop](https://arxiv.org/html/1711.09889)
+
+[DL research](https://github.com/llSourcell/7_Research_Directions_Deep_Learning/blob/master/The%20Future%20of%20Deep%20Learning%20Research.ipynb)
