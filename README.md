@@ -30,3 +30,5 @@
 [PLNLP](http://ceur-ws.org/Vol-1802/paper4.pdf)
 
 [Reason](https://arxiv.org/pdf/1212.4799.pdf)
+
+[RL](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
