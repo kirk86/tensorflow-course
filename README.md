@@ -16,3 +16,5 @@
 [PSL-4](http://dippl.org/)
 
 [Stochastic Optimization](http://www.stat.columbia.edu/~liam/teaching/compstat-spr15/lauren-notes.pdf)
+
+[Eigenvals](https://people.orie.cornell.edu/aslewis/publications/focm-paper.pdf)
